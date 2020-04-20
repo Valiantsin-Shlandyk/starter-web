@@ -1,6 +1,6 @@
-# Starter Web Repo
+# Starter Web Project
 
-##Introduction
+## Introduction
 
 ## Purpose
 
