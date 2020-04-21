@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Valik Shl valik.shlandyk@mail.ru
 
 # THANKS
 
